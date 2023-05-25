@@ -1,12 +1,12 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I am Andrés</h1>
-    <h4 align="center">
+    <p align="center">
         A developer with experience in PHP, Laravel, JavaScript, Vue.js, and MySQL, with a solid understanding of
         fundamental programming concepts. Worked on web projects and am built with agile methodologies like Scrum. I am
         passionate about technology and always looking to learn new tools and techniques to improve my work. I am always looking
         for new opportunities to expand my knowledge and skills in web development.
-    </h4>
+    </p>
 </div>
 
 ---
