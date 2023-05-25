@@ -14,7 +14,7 @@
 ### About Me:
 
 - 🔭 My portfolio https://andres-developer.netlify.app
-- 🌱 I’m currently learning learning **Typescript**
+- 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **laravel, PHP, Javascript, VueJs**
 - 📫 How to reach me: **andresdelgadoperez19@gmail.com**
 
