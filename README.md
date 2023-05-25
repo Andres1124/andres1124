@@ -11,7 +11,7 @@
 
 ---
 
-### 🧏🏽‍♂️About Me:
+### 🧏🏽‍♂️ About Me:
 
 - 🔭 My portfolio https://andres-developer.netlify.app
 - 🌱 I’m currently learning **Typescript**
@@ -21,7 +21,7 @@
 ----
 
 <div align="left">
-    <h3>🛠Languages and Tools:</h3>
+    <h3>🛠 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">&nbsp;
